@@ -1,15 +1,14 @@
 # Junior Developer Project
 
-We would like you to create a Simple 2 Page HTML website of your choice, Could be about yourself, A game, movie etc… ( I have attached some screenshots of some examples )
+We would like you to create a Simple 2 Page HTML website of your choice, Could be about yourself, A game, movie etc…
 
-Needs to be built in HTML and CSS. And have a Basic HTML form on. 
-(Name, Email, Messages, This Doesn't need to send anywhere ) 
+Needs to be built in HTML and CSS and Bootstrap 4 Framework Which is setup and ready to go on the Repo above. There is the mainframe work we use at Piranha.
+
+## Pages
 
 **Page 1** - Home Page
 
-**Page 2** - Contact Page with a form.
-
-Feel free to include a framework such as Bootstrap -  There is lots of information about this online example - w3schools
+**Page 2** - Contact Page with a form. (Name, Email, Messages, This Doesn't need to send anywhere ) 
 
 ## Bonus points,
 
