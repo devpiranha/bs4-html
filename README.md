@@ -1,21 +1,22 @@
-# Bootstrap 4 Boilerplate
+# Junior Developer Project
 
-This is a simple Bootstrap template with responsive Navbar.
-This for educational use.
+We would like you to create a Simple 2 Page HTML website of your choice, Could be about yourself, A game, movie etc… ( I have attached some screenshots of some examples )
 
-## Getting Started
+Needs to be built in HTML and CSS. And have a Basic HTML form on. 
+(Name, Email, Messages, This Doesn't need to send anywhere ) 
 
-You can use this template to help build a website. The Navbar items will
-need links in place for your other pages. That will allow the Menu to work
-when you are in mobile sizes.
+**Page 1** - Home Page
 
-## Built With and additional components
+**Page 2** - Contact Page with a form.
 
-* [Bootstrap 4](http://getbootstrap.com/) - The web framework used
-* [Jquery](https://jquery.com/) - For future work in the project
-* [FontAwesome](http://fontawesome.io/) - Can be used for creating icons
-* [Popperjs](https://popper.js.org/)- Included as CDN for future use
+Feel free to include a framework such as Bootstrap -  There is lots of information about this online example - w3schools
 
-## License
+## Bonus points,
 
-This project is licensed under the MIT License (https://opensource.org/licenses/MIT)
+Make it Mobile Friendly with media query's
+
+Add some JavaScript. Could be a number counter or a modal or an accordion. Lots of options.
+
+Embed a Google Map
+
+ But most importantly just give it a go, and have fun. :D
